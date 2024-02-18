@@ -1,3 +1,15 @@
+"""
+I have performed some basic automation testing in this file on a website cubexo.in
+
+Tests Are as follows: 
+1.Valid Email Submission Test
+2.Invalid Email Submission Test
+3.Contact Button Click Test
+4.LinkedIn Button Click Test
+5.Support Button Interaction Test
+6.Support Form Entry Test
+"""
+
 #---------------------------------------------------------------------
 # Imports
 #---------------------------------------------------------------------
